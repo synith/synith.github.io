@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Synith's Portfolio"
+title                    : "Synith Games"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jordan \"Synith\" Reed"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Synith | Jordan Reed"
+  name             : "Jordan (Synith) Reed"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "A **gameplay programmer** looking to help you build your next idea."
-  location         : "Alberta, Canada"
-  email            : "synith@live.ca"
+  location         : "Canada"
+  email            : "mail@synith.dev"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url:  "mailto:synith@live.ca"
+      # url:  "mailto:mail@synith.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
