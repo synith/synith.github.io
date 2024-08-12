@@ -3,4 +3,4 @@ GitHub Pages repository for portfolio website
 
 [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/navigation/)
 
-[Website Link](https:/synith.dev)
+[Website Link](https://synith.dev)
