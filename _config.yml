@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "A **gameplay programmer** looking to help you build your next idea."
   location         : "Canada"
-  email            : "mail@synith.dev"
+  email            : "jordan@synith.dev"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url:  "mailto:mail@synith.dev"
+      url:  "mailto:jordan@synith.dev"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/synith//"
